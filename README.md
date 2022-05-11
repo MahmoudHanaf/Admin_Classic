@@ -1,5 +1,5 @@
 # Admin_Classic
-<a href="url"><img src="![Screenshot_2022-05-01-23-30-39-68_17d631c9e5532882cc3eb60713e074ec](https://user-images.githubusercontent.com/94074275/167895273-e4560cb7-2531-46ce-a54c-534025fa3659.jpg)" align="left" height="50" width="50" ></a>
+<a href="url"><img src="https://user-images.githubusercontent.com/94074275/167895273-e4560cb7-2531-46ce-a54c-534025fa3659.jpg" align="left" height="100" width="50" ></a>
 
 
 ![Screenshot_2022-05-01-23-30-39-68_17d631c9e5532882cc3eb60713e074ec](https://user-images.githubusercontent.com/94074275/167895273-e4560cb7-2531-46ce-a54c-534025fa3659.jpg)
